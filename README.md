@@ -1,2 +1,2 @@
-# Plinko-Game-Harshil-Shah
-Making Plinko game
+# p5.play-boilerplate
+Boiler plate for p5.play
